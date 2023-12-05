@@ -41,14 +41,14 @@ export default function About() {
                     <span className="font-medium">
                         full-stack web development{" "}
                     </span>{" "}
-                    jorney in 2022 and joined{" "}
+                    journey in 2022 and joined{" "}
                     <span className="font-medium">Emerging coders</span> as
-                    full-stack web developer .
+                    full-stack web developer. {" "}
                     <span className="italic">
                         My favorite part of programming
                     </span>{" "}
-                    is the problem-solving process.I really enjoy learning new
-                    technologies and solve problems in most optimized way. My
+                    is the problem-solving process. I enjoy learning New
+                    technologies and solve problems the most optimized way. My
                     core stack includes{" "}
                     <span className="font-medium">
                         React, Next.js, Node.js, and electron
