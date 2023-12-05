@@ -49,7 +49,7 @@ export const links = [
       imageUrl: flowmeter,
     },
     {
-      title: "portfoli0",
+      title: "Portfolio",
       description:
       "A personal portfolio with Next.js featuring both dark and light modes, adorned with captivating animations.",
       tags: ["Next.js", "framer motion", "Tailwind", "contextAPI"],

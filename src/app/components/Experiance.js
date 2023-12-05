@@ -52,7 +52,7 @@ export default function Experiance() {
                             <h3 className="font-semibold capitalize">
                                 {item.title}
                             </h3>
-                            <p className="font-normal !mt-0">{item.location}</p>
+                            <p className="font-sm text-xs text-gray-400 !mt-0">{item.location}</p>
                             <p className="!mt-2 !font-normal text-gray-700 dark:text-white/70">
                                 {item.description}
                             </p>
