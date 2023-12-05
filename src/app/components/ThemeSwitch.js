@@ -55,7 +55,7 @@ export default function ThemeSwitch() {
 
     return (
         <button
-            className="fixed bottom-7 right-7 w-10 h-10 grid place-items-center bg-white rounded-full bg-opacity-70 border transition-all border-white border-opacity-50 hover:scale-125 backdrop-blur-md shadow-2xl dark:bg-gray-800 dark:border-gray-900"
+            className="fixed bottom-7 right-7 w-10 h-10 grid place-items-center bg-white rounded-full bg-opacity-70 border transition-all border-white border-opacity-50 hover:scale-125 backdrop-blur-md shadow-2xl dark:bg-gray-800/50 dark:border-gray-900"
             onClick={() => toggleTheme()}>
             {/* <AnimatePresence initial={true}> */}
             {theme === "light" && (
