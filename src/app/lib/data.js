@@ -109,7 +109,7 @@ export const experiencesData = [
         title: "Full-Stack Developer",
         location: "Emerging Coders",
         description:
-            "Currently employed as a Full-stack Web Developer with expertise in React, Electron, Node, Express.js, Next.js, Tailwind, SQL.",
+            "Full-stack Web Developer with expertise in React, Electron, Node, Express.js, Next.js, Tailwind, SQL, Developed Point of Sale system",
         icon: React.createElement(FaReact),
         date: "2022 - 2024",
     },
