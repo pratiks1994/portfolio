@@ -58,7 +58,7 @@ export const projectsData = [
             "Dynamic dashboard generator with customizable widgets and charts, allowing users to tailor data visualization to their needs.",
         tags: ["Next.js", "ChakraUi", "TanStack Query", "Redux Toolkit", "ReChart"],
         imageUrl: Insight,
-        path: "#",
+        path: "https://insights.maiworks.net/",
     },
     {
         title: "Portfolio",
